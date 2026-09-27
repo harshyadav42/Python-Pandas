@@ -12,9 +12,7 @@ Pandas is a powerful Python library used for **data manipulation, data cleaning,
 
 * 🐍 **Python**
 * 🐼 **Pandas**
-* 📓 **Jupyter Notebook**
-* 💻 **VS Code**
-
+* ☁️ Google Colab
 ---
 
 ## 📚 Topics Covered
